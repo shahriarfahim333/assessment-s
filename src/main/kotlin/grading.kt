@@ -12,6 +12,6 @@ fun main(args: Array<String>) {
     }else if(mark>=60) {
         println("F")
     }else {
-        println("tmi FAIL, ei next... ")
+        println("F")
     }
 }
